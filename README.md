@@ -1,3 +1,3 @@
 # Netflix-Clone
 
-click the link: https://surajsg23.github.io/Netflix-Clone/
+Click the link: https://surajsg23.github.io/Netflix-Clone/
