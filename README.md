@@ -1,3 +1,5 @@
 # Netflix-Clone
 
-Click [here](https://github.com/SurajSG23/Netflix-Clone/issues/1#issue-2468302164) to view Netflix Demo.
+Watch Demo:
+
+https://github.com/user-attachments/assets/f276159e-616a-42fe-b861-e31b37d43a71
